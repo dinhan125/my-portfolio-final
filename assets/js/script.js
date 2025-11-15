@@ -64,7 +64,7 @@ document.addEventListener('visibilitychange',
         }
         else {
             document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favi.jpg");
+            $("#favicon").attr("href", "assets/images/favi.png");
         }
     });
 
