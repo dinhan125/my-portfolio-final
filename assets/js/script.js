@@ -60,7 +60,7 @@ document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
             document.title = "Portfolio | Dinh An";
-            $("#favicon").attr("href", "assets/images/favi.jpg");
+            $("#favicon").attr("href", "assets/images/favi.png");
         }
         else {
             document.title = "Come Back To Portfolio";
@@ -110,7 +110,7 @@ function showProjects(projects) {
     projects.slice(0, 10).forEach(project => {
         projectHTML += `
         <div class="box tilt">
-      <img draggable="false" src="/assets/images/projects/${project.image}.png" alt="project" />
+      <img draggable="false" src="<img src="https://dinhan125.github.io/my-portfolio-final/assets/images/projects/${project.image}.png" />" alt="project" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
