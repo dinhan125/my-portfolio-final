@@ -2,7 +2,7 @@
   {
     "name": "Library Management System",
     "desc": "Library management application built using Python and SQL Server. Provides functionalities to manage books, members, and borrowing transactions efficiently.",
-    "image": "QLThuVien",
+    "image": "QLThuVien.png",
     "category": "system",
     "links": {
       
@@ -12,7 +12,7 @@
   {
     "name": "Cyber Management System",
     "desc": "Net café management system built using C#, WinForms, and SQL Server. Supports managing computers, accounts, time tracking, and services for smooth operation.",
-    "image": "QLQuanNet",
+    "image": "QLQuanNet.png",
     "category": "winform",
     "links": {
       "code": "https://github.com/dinhan125/CSE_WinForm_QuanLyQuanNet"
@@ -21,7 +21,7 @@
   {
     "name": "Profile Card",
     "desc": "Profile card dashboard built using Vite and Node.js. Displays image and contact with interactive UI components.",
-    "image": "Profile",
+    "image": "Profile.png",
     "category": "react",
     "links": {
       "code": "https://github.com/jigar-sable/React-Projects"
@@ -30,7 +30,7 @@
     {
     "name": "Heart Disease Prediction",
     "desc": "Predicts heart disease using Logistic Regression and KNN in Python (Jupyter Notebook).",
-    "image": "MachineLearning",
+    "image": "MachineLearning.png",
     "category": "machine learning",
     "links": {
       "code": "https://colab.research.google.com/drive/1-ryYN2zRX8mKab1hWOxn0J3BYoyHya_M?usp=sharing&fbclid=IwY2xjawOFJ2pleHRuA2FlbQIxMABicmlkETFpUHNMOGZLcldJVnd5VWNuc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MghjYWxsc2l0ZQEyAAEel_mQud-NvKnd0hp7Gjyf1eoG0x9UJpsuaEWTEmCaYv-k9pq-If0T6wjFWJI_aem_9fCEw_kzOjlMHUhvBnEweQ#scrollTo=CUwGnslvMEgg"
